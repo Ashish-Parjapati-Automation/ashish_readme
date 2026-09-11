@@ -92,7 +92,7 @@ A free UiPath activity library that lets you work with SQLite databases directly
 
 - ✅ **UiPath Advanced RPA Developer (UiARD)** — Active
 - ⚡ UiPath Agentic AI Academy — In Progress
-- 🎓 MCA — GGS Indraprastha University, Delhi
+- 🎓 MCA — Guru Gobind Singh Indraprastha University, Delhi
 
 ---
 
