@@ -9,10 +9,10 @@
 ## 🚀 What I do
 
 I build enterprise-grade automation solutions that actually survive production — not just demos.  
-Previously delivered 13+ automation projects at Symbiotic Consulting Group as a Senior Application Developer.
+Delivered 13+ automation projects across complex enterprise workflows — full lifecycle, from design to production support.
 
 - 🤖 **RPA at scale** — UiPath Studio, REFramework, Dispatcher-Performer, Orchestrator (On-Prem & Cloud)
-- 🧩 **Custom tooling** — 4 C#/.NET activity libraries packaged as NuGet components, adopted team-wide
+- 🧩 **Custom tooling** — Published & maintained C#/.NET activity libraries on NuGet.org, adopted team-wide
 - 📄 **Intelligent Document Processing** — UiPath Document Understanding, OCR, IDP pipelines (5,600+ docs processed)
 - ☁️ **Cloud migration** — Solo On-Prem → Automation Cloud migration, zero rollbacks, no Professional Services
 - 🌐 **Bot stabilization** — Chrome Extension (Manifest V3) + JavaScript injection layer, cut failures by 40–50%
@@ -42,10 +42,11 @@ Previously delivered 13+ automation projects at Symbiotic Consulting Group as a 
 | **40–50% fewer production failures** | JS injection + Chrome extension automation layer |
 | **Zero-rollback cloud migration** | On-Prem → Automation Cloud, solo, no Professional Services |
 | **4 custom C# activity libraries** | Team-wide NuGet deployment via Orchestrator feeds |
+| **Published on NuGet.org** | [Community.SQLite.Activities](https://www.nuget.org/packages/Community.SQLite.Activities/) — SQLite for UiPath workflows |
 
 ---
 
-## 🤖 Current personal project
+## 🤖 AI project
 
 **Agentic Orchestrator Monitor** — TypeScript AI agent that autonomously monitors UiPath Orchestrator job health.
 
@@ -55,13 +56,34 @@ Previously delivered 13+ automation projects at Symbiotic Consulting Group as a 
 - Stack: TypeScript · Groq SDK · LLaMA · UiPath Orchestrator API
 
 
+---
+
+## 📦 Open source / Published packages
+
+### [Community.SQLite.Activities](https://www.nuget.org/packages/Community.SQLite.Activities/)
+> SQLite activity library for UiPath — embed a lightweight database directly into your automation workflows.
+
+![NuGet](https://img.shields.io/nuget/v/Community.SQLite.Activities?style=flat&color=4f8ef7)
+![Downloads](https://img.shields.io/nuget/dt/Community.SQLite.Activities?style=flat&color=2dd4a0)
+
+A free UiPath activity library that lets you work with SQLite databases directly inside your workflows — no server, no setup, no extra infrastructure.
+
+**Activities included:**
+- `SQLiteConnect` — Open a connection (scope or manual mode)
+- `ExecuteQuery` — Run SELECT queries, returns DataTable
+- `ExecuteNonQuery` — INSERT, UPDATE, DELETE, DDL
+- `BulkInsert` — Efficiently insert multiple rows
+- `CreateTable` — Create tables if they don't exist
+- `SQLiteDisconnect` — Close manually managed connections
+
+**Features:** Password encryption · In-memory databases · Scope or manual connection mode · .NET 6.0 · UiPath Studio 2023.x+
 
 ---
 
 ## 📚 Currently learning
 
 - 🔗 LangChain & LangGraph
-- 🗄️ RAG Pipelines & Vector Databases  
+- 🗄️ RAG Pipelines & Vector Databases
 - 🤖 UiPath Agentic AI Academy
 
 ---
@@ -69,7 +91,7 @@ Previously delivered 13+ automation projects at Symbiotic Consulting Group as a 
 ## 📜 Certifications
 
 - ✅ **UiPath Advanced RPA Developer (UiARD)** — Active
-- ⚡ UiPath Agentic AI Academy 
+- ⚡ UiPath Agentic AI Academy — In Progress
 - 🎓 MCA — GGS Indraprastha University, Delhi
 
 ---
@@ -77,7 +99,7 @@ Previously delivered 13+ automation projects at Symbiotic Consulting Group as a 
 ## 📬 Let's connect
 
 [![Email](https://img.shields.io/badge/Email-ashish711297@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashish711297@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-40a90714a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-40a90714a)
 
 📍 Delhi NCR, India · Open to remote roles PAN India
 
